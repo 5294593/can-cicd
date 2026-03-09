@@ -1,0 +1,16 @@
+{
+    "network_version": 1.1,
+    "topics": {
+        "BMS": {
+            "id": 0,
+            "messages": {
+                "BMS_0": {
+                    "id": 0
+                },
+                "BMS_1": {
+                    "id": 32
+                }
+            }
+        }
+    }
+}
